@@ -1,7 +1,7 @@
-#IMC
+# IMC
 ***
 
-##Unit Converter: Metric to Imperial, Imperial to Metric
+## Unit Converter: Metric to Imperial, Imperial to Metric
 
 This is a very simple converter to convert from/to imperial and metric units weight (lbs, kg) and height (ft, cm).
 
