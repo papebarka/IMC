@@ -1,5 +1,7 @@
 module UnitConversion
 
+    UNITS = ['lbs', 'kg', 'cm', 'ft']
+
     def self.lbs_to_kg(weight)
         new_weight = weight * 0.45359237
     end

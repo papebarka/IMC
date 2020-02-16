@@ -17,7 +17,10 @@ def operation(arguments)
     puts "inside arguments"
     if ARGV.length == 1 && (ARGV[0] == '-h' || ARGV[0] == '--help')
         helping_guide
+    elsif ARGV.length == 4
+        #if(UnitConversion::UNITS)
     else
+        puts "The application takes 4 parameters.\nPlease invoke the command help (-h or --help) to see how it works."
     end
 end
 
